@@ -10,5 +10,4 @@ This can convert your garmin connect data and store it in InfluxDB. So you can e
 1. Request your data from Garmin Connect: https://www.garmin.com/en-GB/account/datamanagement/exportdata/
 2. Clone this repo
 3. Extract the export (zip) into the subfolder export
-4. Run it: 
-    $ go run main.go
+4. Run it: ```go run main.go```
